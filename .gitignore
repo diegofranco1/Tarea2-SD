@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.env
+
+# Docker / SO
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.env
+secreto.env
+metricas_*.csv
+grafico_*.png
